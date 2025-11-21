@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Abir Hossain  
 
-<!--
-**mdabir-hossain/mdabir-hossain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist with an MSc (Distinction) in Data Science from the University of Aberdeen.  
+I specialise in Machine Learning, Data Analysis, and Computational Biology, with experience building  
+end-to-end ML pipelines, feature engineering, probability calibration, and thermodynamic modelling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Featured Project: RNA Thermoswitch Design (MSc Thesis)
+A unique machine learning + thermodynamics project combining:
+- Python, pandas, NumPy, scikit-learn  
+- NUPACK simulations  
+- k-mer feature engineering  
+- Gradient Boosting classifier  
+Achieved **ROC-AUC 0.951** and **PR-AUC 0.875** on test split.
+
+➡ Repo coming soon.
+
+---
+
+## 🚀 What I'm Working On
+- **Customer Churn Prediction** (business ML project)
+- **NLP Sentiment Analysis** (text-based ML)
+- Building a strong GitHub portfolio and refining ML engineering skills.
+
+---
+
+## 🛠 Technical Skills
+**Programming & ML:** Python, pandas, NumPy, scikit-learn, SQL  
+**Tools:** Git, Jupyter Notebook, VS Code, Linux (WSL)  
+**Visualisation:** Matplotlib  
+**Computational Biology:** NUPACK  
+
+---
+
+## 📫 Contact
+**Email:** abirh720@gmail.com  
+**LinkedIn:** coming soon  
