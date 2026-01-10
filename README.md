@@ -35,7 +35,7 @@ Key highlights:
 ---
 
 ## 🚀 What I'm Working On
-- **Customer Churn Prediction (end-to-end ML project with SHAP explainability)
+- **Customer Churn Prediction** (end-to-end ML project with SHAP explainability)
 - **NLP Sentiment Analysis** (text-based ML)
 - Building a strong GitHub portfolio and refining ML engineering skills.
 
