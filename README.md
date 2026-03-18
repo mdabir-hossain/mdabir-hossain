@@ -51,4 +51,4 @@ Key highlights:
 
 ## 📫 Contact
 **Email:** abirh720@gmail.com  
-**LinkedIn:** updating soon  
+**LinkedIn:** https://www.linkedin.com/in/abir-hossain-941946165  
