@@ -78,7 +78,7 @@ Customer churn directly affects revenue and long-term growth. A well-built churn
 - Identified major churn drivers through explainability analysis
 - Converted model findings into retention-focused business recommendations
 
-🔗 **Repository:** (https://github.com/mdabir-hossain/business-churn-prediction)
+🔗 **Repository:** https://github.com/mdabir-hossain/business-churn-prediction
 
 ---
 
