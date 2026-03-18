@@ -16,7 +16,7 @@ A unique machine learning + thermodynamics project combining:
 - Gradient Boosting classifier  
 Achieved **ROC-AUC 0.951** and **PR-AUC 0.875** on test split.
 
-📊 Featured Project: Business Churn Prediction (ML + SHAP)
+## 📊 Featured Project: Business Churn Prediction (ML + SHAP)
 
 An end-to-end machine learning project focused on predicting customer churn and delivering actionable business insights.
 
