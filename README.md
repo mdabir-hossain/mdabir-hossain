@@ -1,111 +1,81 @@
 # Md Abir Hossain
 
-**MSc Data Science graduate focused on applied machine learning, reproducible analytics, and product-minded ML systems.**
+**MSc Data Science graduate focused on applied AI, machine learning, reproducible analytics, and product-minded ML systems.**
 
-I build machine learning projects that connect modelling with real-world decision-making: validation design, calibration, explainability, threshold trade-offs, product constraints, and clear communication of results.
-
-I recently completed an **MSc in Data Science with Distinction** from the **University of Aberdeen** and am now targeting **Machine Learning Engineer, Data Scientist, and Applied AI roles in the UK**.
-
----
+I build applied AI and machine learning projects that connect modelling decisions with real-world use: retrieval design, validation strategy, calibration, threshold trade-offs, interpretability, safety constraints, and clear communication of results. I recently completed an **MSc in Data Science with Distinction** from the **University of Aberdeen** and am targeting **Machine Learning Engineer, Data Scientist, Applied AI Engineer, and early-career ML/Data roles in the UK**.
 
 ## Featured Projects
 
-### 1. GameBrek
+### 1. Matritto — AI Pregnancy Companion
 
-**Founder-built Android + ML product case study for a privacy-conscious digital wellbeing app.**
+**AI-first maternal support prototype combining retrieval-augmented generation, safety-aware routing, and appointment-preparation workflows.**
 
-GameBrek is a private-source Android product designed to help users create calmer boundaries around gaming, social media, and distraction-heavy apps. The public repository documents the product strategy, UX thinking, privacy-first architecture, ML recommendation design, and Play Store readiness work without exposing the production source code.
+**What it demonstrates:** Applied AI product design, healthcare-focused RAG, safety-aware response handling, source-grounded answers, symptom-intent classification, visit-prep generation, privacy-conscious persistence, structured answer design, and full-stack AI system thinking.
 
-**Highlights:**
-- Designed a recovery-first focus product around self-directed app boundaries.
-- Built the product story around privacy, behavioural patterns, and realistic user friction.
-- Developed an on-device ML recommendation direction to support session planning.
-- Prepared the product for public-facing case-study documentation while keeping source code private.
+**Technologies and skills:** Python, FastAPI, React, TypeScript, RAG, NLP, safety routing, retrieval evaluation, healthcare AI, backend API design, product UX, privacy-aware system design.
 
-**Technologies and skills:** Kotlin, Jetpack Compose, Firebase, Android product development, on-device ML recommendation design, privacy-first architecture, UX/product thinking.
+[View project](https://github.com/mdabir-hossain/matritto-ai-pregnancy-support)
+
+### 2. GameBrek
+
+**Public case study for an Android + ML digital wellbeing product designed to help gamers protect focus without deleting their games.**
+
+**What it demonstrates:** Founder-built product thinking, privacy-conscious architecture, focus protection workflows, recovery-first UX, app boundary design, behaviour-aware recommendation logic, and Play Store readiness.
+
+**Technologies and skills:** Kotlin, Jetpack Compose, Firebase, on-device ML recommendation design, privacy-first architecture, Android product development, product UX.
 
 [View project](https://github.com/mdabir-hossain/gamebrek)
 
----
-
-### 2. Sepsis Early-Warning ML
+### 3. Sepsis Early-Warning ML
 
 **Retrospective sepsis early-warning ML analysis using patient-grouped validation and decision-aware evaluation.**
 
-This project studies early sepsis risk modelling from patient time-series data. It focuses not only on predictive performance, but also on calibration, threshold selection, alert burden, and lead-time trade-offs — the kinds of issues that matter when ML outputs are connected to real operational decisions.
+**What it demonstrates:** Temporal feature engineering, patient-grouped model validation, probability calibration, threshold and policy sweeps, alarm-burden analysis, lead-time analysis, and careful communication of healthcare ML limitations.
 
-**Highlights:**
-- Built temporal features from patient-level time-series data.
-- Used patient-grouped validation to reduce patient-level leakage risk.
-- Compared model performance using saved cross-validation artifacts.
-- Analysed calibration, threshold policies, alert burden, and lead time.
-- Communicated healthcare ML limitations carefully as retrospective analysis, not clinical deployment.
+**Technologies and skills:** Python, pandas, scikit-learn, temporal ML, calibration, healthcare ML evaluation, reproducible analytics.
 
-**Technologies and skills:** Python, pandas, scikit-learn, temporal ML, grouped validation, calibration, threshold analysis, healthcare ML evaluation, reproducible analytics.
+[View project](https://github.com/mdabir-hossain/sepsis-early-warning-system)
 
-[View project](https://github.com/mdabir-hossain/sepsis-early-warning)
-
----
-
-### 3. Business Churn Prediction
+### 4. Business Churn Prediction
 
 **End-to-end churn prediction project focused on practical business value and explainable model outputs.**
 
-This project applies supervised machine learning to customer churn prediction, with emphasis on understanding business drivers, comparing models, interpreting predictions, and translating results into retention-focused recommendations.
-
-**Highlights:**
-- Performed exploratory analysis to understand churn patterns.
-- Built and compared classification models.
-- Used explainability to interpret important churn signals.
-- Connected model outputs to business-facing retention insights.
-- Structured the project for portfolio-ready communication.
+**What it demonstrates:** EDA, feature engineering, classification modelling, model comparison, explainability, and translating predictive signals into retention-focused business recommendations.
 
 **Technologies and skills:** Python, pandas, scikit-learn, classification, EDA, model evaluation, SHAP/model explainability, business interpretation.
 
 [View project](https://github.com/mdabir-hossain/business-churn-prediction)
 
----
-
-### 4. RNA Thermoswitch / MSc Project
+### 5. RNA Thermoswitch / MSc Project
 
 **Computational design of RNA thermoswitches for high-temperature genetic control in *Bacillus subtilis*.**
 
-This MSc research project explores computational design approaches for RNA thermoswitches, combining sequence design, thermodynamic modelling, and machine learning-style evaluation to support biological design decisions.
+**What it demonstrates:** Scientific ML depth, computational biology research, sequence design, thermodynamic modelling, feature engineering, model evaluation, and research communication.
 
-**Highlights:**
-- Worked on a scientific ML/computational biology problem.
-- Used computational tools to support RNA sequence design.
-- Evaluated sequence behaviour through thermodynamic and feature-based analysis.
-- Communicated a technical research workflow as part of an MSc Data Science project.
-- Demonstrated domain flexibility beyond standard business datasets.
+**Technologies and skills:** Python, NUPACK, pandas, scikit-learn, sequence design, computational biology, feature engineering, reproducible research workflows.
 
-**Technologies and skills:** Python, NUPACK, pandas, scikit-learn, sequence design, computational biology, feature engineering, model evaluation, research communication.
-
-[View project](https://github.com/mdabir-hossain/rna-thermoswitch-ml-screening)
-
----
+[View project](https://github.com/mdabir-hossain/rna-thermoswitch-ml)
 
 ## Technical Strengths
 
-- **Applied machine learning:** classification, model comparison, feature engineering, calibration, threshold analysis, and explainability.
+- **Applied AI and machine learning:** classification, model comparison, feature engineering, calibration, threshold analysis, explainability, RAG, and NLP workflows.
 - **Reproducible analytics:** clear project structure, documented workflows, validation-aware evaluation, and result interpretation.
-- **Product-minded ML:** connecting model behaviour with user experience, privacy, operational constraints, and decision-making.
-- **Healthcare and scientific ML:** careful framing of limitations, data leakage risks, validation choices, and responsible communication.
-- **Core tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, SHAP, SQL, Git, GitHub, Jupyter, VS Code, Kotlin, Jetpack Compose, Firebase.
-
----
+- **Product-minded ML:** connecting model behaviour with user experience, operational constraints, privacy, safety, and decision-making.
+- **Healthcare and safety-aware AI:** source-grounded responses, safety routing, careful limitation handling, and decision-support framing.
+- **Domain range:** AI healthcare assistants, digital wellbeing, clinical early-warning ML, business retention analytics, and computational biology.
+- **Core tools:** Python, FastAPI, React, TypeScript, pandas, NumPy, scikit-learn, RAG, NLP, SHAP, SQL, Git, GitHub, Jupyter, VS Code, Kotlin, Jetpack Compose, Firebase.
 
 ## Current Focus
 
-I am currently focused on building ML and data science projects that are:
+I am currently focused on building production-minded AI and machine learning projects that are:
 
 - Validated with realistic data-splitting and evaluation choices.
 - Clear about trade-offs, limitations, and deployment assumptions.
 - Designed for reproducibility and readable technical communication.
 - Connected to business, product, healthcare, or scientific decision-making.
-
----
+- Built with safety, privacy, and real user value in mind.
 
 ## Connect
 
-- **LinkedIn:** [Md Abir Hossain](www.linkedin.com/in/abir-hossain-941946165)
+- **LinkedIn:** [Md Abir Hossain](https://www.linkedin.com/in/abir-hossain-941946165/)
+- **Portfolio:** Coming soon
